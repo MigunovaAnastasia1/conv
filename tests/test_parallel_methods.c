@@ -8,7 +8,7 @@
 #include "core_builder.h"
 #include "proc_image_utils.h"
 
-#define INPUT_IMAGE "./../images/569x339.jpg"
+#define INPUT_IMAGE "./../tests/data/300x120.jpg"
 typedef struct
 {
 	unsigned char *input_image;
